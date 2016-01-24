@@ -1,0 +1,28 @@
+name: Incline Beverages
+favicon: null
+layout_spectrum: 0.19560512667521834
+typography_spectrum: 0.4812522034626454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.880027012899518
+  lightness: 0.7422329345718026
+  saturation: 0.7951988528948277
+  rhythmicContrast: 0.8332016207277775
+purpose: []
